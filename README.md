@@ -28,4 +28,4 @@ Video 26: Responsive design <br />
 Video 27: Web workers (omitted) <br />
 Video 28: Standalone components <br />
 
-[Linkto playlist](https://www.youtube.com/playlist?list=PLjsBk8SIQEi-RqkglLcn19TaeeopcuDXV)
+[Link to playlist](https://www.youtube.com/playlist?list=PLjsBk8SIQEi-RqkglLcn19TaeeopcuDXV)
