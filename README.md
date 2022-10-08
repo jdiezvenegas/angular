@@ -1,4 +1,4 @@
-This repo is designed to save all my progress learning angular. Each video (link below) has one point to learn. That points are defined in the list:
+This repo is designed to save all my progress learning angular. Each video (link below) has one point to learn. That points are defined in the list: <br />
 Video 1: Components <br />
 Video 2: <br />
 Video 3: <br />
