@@ -1,27 +1,31 @@
-# Tutorial
+This repo is designed to save all my progress learning angular. Each video (link below) has one point to learn. That points are defined in the list:
+Video 1: Components
+Video 2:
+Video 3:
+Video 4:
+Video 5:
+Video 6:
+Video 7:
+Video 8:
+Video 9:
+Video 10:
+Video 11:
+Video 12:
+Video 13:
+Video 14:
+Video 15:
+Video 16:
+Video 17:
+Video 18:
+Video 19:
+Video 20:
+Video 21:
+Video 22:
+Video 23:
+Video 24:
+Video 25:
+Video 26:
+Video 27:
+Video 28:
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.2.5.
-
-## Development server
-
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
-
-## Code scaffolding
-
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
-
-## Build
-
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
-
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+.[Linkht to playlist](https://www.youtube.com/playlist?list=PLjsBk8SIQEi-RqkglLcn19TaeeopcuDXV)
