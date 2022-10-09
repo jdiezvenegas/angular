@@ -4,11 +4,13 @@ h2{
 :host{
     display: block;
     border: 3px solid cyan;
+    padding: 5px;
 }
-:host(.active) {
+:host(.active) h2{
     text-decoration: underline;
-    text-decoration-color: yellow;
+    text-decoration-color: brown;
 }
 :host-context(.theme-light) h2{
     background-color: #c2c2c2;
+    text-align: center;
 }
