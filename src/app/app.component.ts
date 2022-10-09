@@ -7,11 +7,6 @@ import { Component, OnInit } from '@angular/core';
 })
 
 export class AppComponent {
-    title="Hello World!";
-    getMin(a:any ,b:any){
-        if (a>b){
-            return b;
-        }
-            return a;
-    }
+    itemImageUrl="../assets/foto.jpg";
+    isUnchanged=false;
 }
